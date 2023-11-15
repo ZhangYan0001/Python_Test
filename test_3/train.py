@@ -57,6 +57,7 @@ def test_word():
   get_cos("woman", "game", embedding_matrix)
   get_cos("one", "name", embedding_matrix)
   get_cos("create", "delete", embedding_matrix)
+  get_cos("test","content",embedding_matrix)
 
 
 test_word()
